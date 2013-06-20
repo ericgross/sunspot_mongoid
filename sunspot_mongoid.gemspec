@@ -31,8 +31,8 @@ Gem::Specification.new do |s|
     "lib/sunspot_mongoid.rb",
     "sunspot_mongoid.gemspec",
     "tasks/sunspot_mongoid.rake",
-    "test/helper.rb",
-    "test/test_sunspot_mongoid.rb"
+    #"test/helper.rb",
+    #"test/test_sunspot_mongoid.rb"
   ]
   s.homepage = "http://github.com/aq1018/sunspot_mongoid"
   s.require_paths = ["lib"]
