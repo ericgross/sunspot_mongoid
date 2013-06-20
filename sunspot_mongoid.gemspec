@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
-    "examples/example.rb",
+    #"examples/example.rb",
     "init.rb",
     "lib/sunspot/mongoid.rb",
     "lib/sunspot/mongoid/railtie.rb",
